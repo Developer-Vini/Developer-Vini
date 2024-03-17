@@ -1,4 +1,4 @@
-# Olá, tenho 14 anos e estou aprendendo a progamar
+# Olá, me chamo Vinicius tenho 14 anos e estou aprendendo a progamar
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Vini&show_icons=true&theme=radical)
