@@ -37,10 +37,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" alt="JavaScript"/>
 </div>
 
-<div align="center">
-  <h3>Visitors Count</h3>
-  <img align="center" src="https://profile-counter.glitch.me/{Developer-Vini}/count.svg" alt="Visitors Count"/>
-</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
