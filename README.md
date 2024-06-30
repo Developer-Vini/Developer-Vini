@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <h1> Habilidades </h1>
+  <h1> Skills </h1>
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
