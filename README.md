@@ -25,3 +25,5 @@
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=652AA8&section=footer"/>
