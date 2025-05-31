@@ -15,12 +15,6 @@
 </div>
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Developer-Vini/Developer-Vini/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Developer-Vini/Developer-Vini/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Developer-Vini/Developer-Vini/output/github-contribution-grid-snake.svg">
-</picture>
-
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Vini&bg_color=000000&color=805ad5&line=805ad5&point=ff00ff&hide_border=true" alt="GitHub Activity Graph"/>
