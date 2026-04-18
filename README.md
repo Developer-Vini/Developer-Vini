@@ -21,12 +21,29 @@
   
   ## ABILITIES
   
-  <img src="https://img.icons8.com/?size=256&id=13441&format=png" width="120">
-  <img width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="120"> 
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
+  <!-- Linha 1 -->
+  <img src="https://img.icons8.com/?size=256&id=13441&format=png" width="80">
+  <img width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="80"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80">
+  <img width="80" alt="image-assembly" src="https://github.com/user-attachments/assets/b280e293-8832-49c7-9009-3ba1528cf0a2" />
+
+
+
+  
+  <!-- Linha 2 -->
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80">
+  
+  <!-- Linha 3 -->
+  <br>
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3">
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="80" alt="JavaScript">
 </div>
 
 <div align="center">
