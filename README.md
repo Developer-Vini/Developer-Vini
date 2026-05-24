@@ -5,7 +5,7 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.shion.dev/api?username=Developer-Vini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&custom_title=//+EXECUTION+STATS" alt="GitHub Stats"/>
   
-  <img width="41%" height="195px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Developer-Vini&theme=dark&hide_border=false&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&custom_title=//+LANGUAGE+DISTRIBUTION" alt="Top Languages"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Developer-Vini&theme=dark&hide_border=false&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&custom_title=//+LANGUAGE+DISTRIBUTION&hide=python,html,css" alt="Top Languages"/>
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
