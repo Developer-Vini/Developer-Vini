@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Developer-Vini&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Vini&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.shion.dev/api?username=Developer-Vini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&custom_title=//+EXECUTION+STATS" alt="GitHub Stats"/>
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Developer-Vini&theme=dark&hide_border=false&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&custom_title=//+LANGUAGE+DISTRIBUTION" alt="Top Languages"/>
 </div>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=ACCESS:+VINICIUS.SYS;STATUS:+ACTIVE;AGE:+16;MODE:+DEVELOPMENT" alt="Typing SVG"/>
