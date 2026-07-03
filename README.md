@@ -47,6 +47,42 @@
 </div>
 
 <div align="center">
+
+## PROJETOS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Developer-Vini/NESEmu">NESEmu</a></h3>
+      <p>Emulador de Nintendo Entertainment System em C com SDL2.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/SDL2-1155EE?style=flat-square&logo=sdl2&logoColor=white">
+      <img src="https://img.shields.io/github/stars/Developer-Vini/NESEmu?style=flat-square&color=yellow">
+      <br><br>
+      <ul>
+        <li>CPU 6502 completa</li>
+        <li>PPU com sprites e scrolling</li>
+        <li>Mappers 0, 1, 2, 3 e 4</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Developer-Vini/ManScript">ManScript</a></h3>
+      <p>Linguagem de script interpretada em C.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+      <img src="https://img.shields.io/github/stars/Developer-Vini/ManScript?style=flat-square&color=yellow">
+      <br><br>
+      <ul>
+        <li>Análise léxica e sintática</li>
+        <li>Variáveis e matrizes</li>
+        <li>Funções embutidas</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
   
   <!-- Replace with your own GIFs -->
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
