@@ -50,32 +50,62 @@
 
 ## PROJETOS
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=true&vCenter=true&width=500&lines=PROJETOS+EM+DESTAQUE" alt="Projetos"/>
+
+</div>
+
+<div align="center">
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Developer-Vini/NESEmu">NESEmu</a></h3>
-      <p>Emulador de Nintendo Entertainment System em C com SDL2.</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/SDL2-1155EE?style=flat-square&logo=sdl2&logoColor=white">
-      <img src="https://img.shields.io/github/stars/Developer-Vini/NESEmu?style=flat-square&color=yellow">
-      <br><br>
-      <ul>
+    <td width="50%" valign="top" style="background-color:#0D1117; border-radius:10px; padding:20px;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/NESEmu-000000?style=for-the-badge&logo=gameboy&logoColor=white" alt="NESEmu">
+      </div>
+      <br>
+      <p align="center">Emulador de Nintendo Entertainment System</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/SDL2-1155EE?style=flat-square&logo=sdl2&logoColor=white">
+        <img src="https://img.shields.io/github/stars/Developer-Vini/NESEmu?style=flat-square&color=yellow&label=Stars">
+      </div>
+      <br>
+      <ul align="center">
         <li>CPU 6502 completa</li>
         <li>PPU com sprites e scrolling</li>
         <li>Mappers 0, 1, 2, 3 e 4</li>
+        <li>Controle via teclado e gamepad</li>
       </ul>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Developer-Vini/NESEmu">
+          <img src="https://img.shields.io/badge/VER+PROJETO-FFFFFF?style=flat-square&logo=github&logoColor=black" alt="Ver Projeto">
+        </a>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Developer-Vini/ManScript">ManScript</a></h3>
-      <p>Linguagem de script interpretada em C.</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-      <img src="https://img.shields.io/github/stars/Developer-Vini/ManScript?style=flat-square&color=yellow">
-      <br><br>
-      <ul>
+    <td width="50%" valign="top" style="background-color:#0D1117; border-radius:10px; padding:20px;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/ManScript-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="ManScript">
+      </div>
+      <br>
+      <p align="center">Linguagem de script interpretada em C</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+        <img src="https://img.shields.io/github/stars/Developer-Vini/ManScript?style=flat-square&color=yellow&label=Stars">
+      </div>
+      <br>
+      <ul align="center">
         <li>Análise léxica e sintática</li>
         <li>Variáveis e matrizes</li>
+        <li>Condicionais e laços</li>
         <li>Funções embutidas</li>
       </ul>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Developer-Vini/ManScript">
+          <img src="https://img.shields.io/badge/VER+PROJETO-FFFFFF?style=flat-square&logo=github&logoColor=black" alt="Ver Projeto">
+        </a>
+      </div>
     </td>
   </tr>
 </table>
