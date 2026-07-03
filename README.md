@@ -63,12 +63,18 @@
         <h3>NESEmu</h3>
       </a>
       <p>Emulador de Nintendo Entertainment System em C com SDL2.</p>
+      <a href="https://github.com/Developer-Vini/NESEmu">
+        <img src="https://img.shields.io/badge/VER+PROJETO-FFFFFF?style=flat-square&logo=github&logoColor=black">
+      </a>
     </td>
     <td width="50%" valign="middle" style="background-color:#0D1117; border-radius:10px; padding:20px;">
       <a href="https://github.com/Developer-Vini/ManScript">
         <h3>ManScript</h3>
       </a>
       <p>Linguagem de script interpretada em C.</p>
+      <a href="https://github.com/Developer-Vini/ManScript">
+        <img src="https://img.shields.io/badge/VER+PROJETO-FFFFFF?style=flat-square&logo=github&logoColor=black">
+      </a>
     </td>
   </tr>
 </table>
