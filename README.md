@@ -1,63 +1,153 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
+<br>
+
+# **Vinicius**
+
+### Desenvolvedor de Software
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Developer-Vini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desegames132@gmail.com)
+
 </div>
+
+---
+
+## Sobre
+
+Desenvolvedor apaixonado por tecnologia, sistemas embarcados e arquitetura de computadores. Focado em criar soluções robustas e eficientes, com experiência em desenvolvimento de baixo nível e alta performance.
+
+---
+
+## Habilidades
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" />
+      <br>Lua
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/2x/html-5.png" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/2x/css3.png" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
+
+---
+
+## Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Developer-Vini/NESEmu">NESEmu</a></h3>
+      <p>Emulador de Nintendo Entertainment System desenvolvido em C com SDL2.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/SDL2-1155EE?style=flat-square&logo=sdl2&logoColor=white">
+      <br><br>
+      <ul>
+        <li>CPU 6502 completa com 151 opcodes</li>
+        <li>PPU com renderização de fundo e sprites</li>
+        <li>Suporte a mappers 0, 1, 2, 3 e 4</li>
+        <li>Controle via teclado e gamepad</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Developer-Vini/ManScript">ManScript</a></h3>
+      <p>Linguagem de script interpretada escrita em C.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+      <br><br>
+      <ul>
+        <li>Análise léxica e sintática</li>
+        <li>Variáveis, matrizes e funções</li>
+        <li>Condicionais e laços de repetição</li>
+        <li>Funções embutidas de entrada/saída</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.shion.dev/api?username=Developer-Vini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&custom_title=//+EXECUTION+STATS" alt="GitHub Stats"/>
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Developer-Vini&theme=dark&hide_border=false&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&custom_title=//+LANGUAGE+DISTRIBUTION&hide=python,html,css" alt="Top Languages"/>
+
+<table>
+  <tr>
+    <td>
+      <img width="400" src="https://github-readme-stats.shion.dev/api?username=Developer-Vini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&custom_title=EXECUÇÃO+ESTATÍSTICAS" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img width="320" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Developer-Vini&theme=dark&hide_border=false&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&custom_title=DISTRIBUIÇÃO+LINGUAGENS&hide=python,html,css" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
 </div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=ACCESS:+VINICIUS.SYS;STATUS:+ACTIVE;AGE:+16;MODE:+DEVELOPMENT" alt="Typing SVG"/>
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Vini&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
+---
 
-<div align="center">
-  
-  ## ABILITIES
-  
-  <!-- Linha 1 -->
-  <img src="https://img.icons8.com/?size=256&id=13441&format=png" width="80">
-  <img width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="80"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80">
-  <img width="80" alt="image-assembly" src="https://github.com/user-attachments/assets/b280e293-8832-49c7-9009-3ba1528cf0a2" />
-
-
-
-  
-  <!-- Linha 2 -->
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="80">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80">
-  
-  <!-- Linha 3 -->
-  <br>
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="80" alt="JavaScript">
-</div>
+## Atividade
 
 <div align="center">
-  
-  <!-- Replace with your own GIFs -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
-  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Vini&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+
 </div>
+
+---
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=18&center=true&vCenter=true&width=1000&lines=SYSTEM+READY.;DEPLOY+COMPLETE.)](https://git.io/typing-svg)
-  
-</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer"/>
+
+</div>
