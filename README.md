@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Vini&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/Developer-Vini/Developer-Vini/output/activity-graph.svg" alt="GitHub Activity Graph"/>
 </div>
 
 <div align="center">
